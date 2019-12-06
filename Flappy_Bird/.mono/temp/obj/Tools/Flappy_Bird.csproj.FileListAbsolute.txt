@@ -1,0 +1,5 @@
+C:\Users\trung\Desktop\Godot_engine_Flappy_bird\Flappy_Bird\.mono\temp\bin\Tools\Flappy_Bird.dll
+C:\Users\trung\Desktop\Godot_engine_Flappy_bird\Flappy_Bird\.mono\temp\bin\Tools\Flappy_Bird.pdb
+C:\Users\trung\Desktop\Godot_engine_Flappy_bird\Flappy_Bird\.mono\temp\obj\Tools\Flappy_Bird.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Godot_engine_Flappy_bird\Flappy_Bird\.mono\temp\obj\Tools\Flappy_Bird.dll
+C:\Users\trung\Desktop\Godot_engine_Flappy_bird\Flappy_Bird\.mono\temp\obj\Tools\Flappy_Bird.pdb

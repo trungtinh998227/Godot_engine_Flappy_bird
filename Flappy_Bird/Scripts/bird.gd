@@ -13,7 +13,7 @@ signal state_changed
 
 func _ready():
 	set_process_input(true)
-	
+	add_to_group(game.GROUP_BIRDS)
 	connect("body_entered", self, "_on_body_entered")
 	pass
 
@@ -140,7 +140,6 @@ class HitState:
 #------------------------------------------------------------------------------
 class GroundedState:
 	var bird
-	
 	func _init(bird):
 		self.bird = bird
 		bird.set_linear_velocity(Vector2(0,0))
