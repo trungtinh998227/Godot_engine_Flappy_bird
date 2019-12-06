@@ -7,6 +7,7 @@ signal destroyed
 
 func _ready():
 	set_process(true)
+	add_to_group(game.GROUP_GROUND)
 	pass
 	
 func _process(delta):
